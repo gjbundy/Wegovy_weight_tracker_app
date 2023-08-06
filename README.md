@@ -2,30 +2,47 @@
 
 This repository contains information about my personal Wegovy Weight Loss Tracker App.
 
+## Getting Started
+
+When you first launch the application, you need to enter your goal weight and your height (in inches) in the settings page. 
+
+Your next step is that you will need to do an initial Log Entry so that your starting weight is captured.
+
+After this feel free to log any entries. The app is setup to show you 7 days inbetween each entry by default. Your best bet is to only log once every 7 days, but it is perfectly acceptable to do as many as you want.
+
 ## Screenshots
 
 Here are some screenshots of the application in action:
 
-### Home Screen
+### Application Icon
+![App Icon](./images/App_Icon.jpeg)
 
-![Home Screen](./images/home-screen.png)
+### Splash Screen
+![Splash Screen](./images/splash_screen.png)
+
+### Home Screen
+![Home Screen](./images/home_page.png)
+
+### Log Entry Screen
+![Log Entry](./images/log_entry.png)
 
 ### Progress Screen
+![Progress Screen](./images/progress_page.png)
 
-![Progress Screen](./images/progress-screen.png)
+### Show Data Screen
+#### Vertical View
+![Show Data](./images/show_data_vertical.png)
+#### Horizontal View
+![Show Data](./images/show_data_horizontal.png)
 
 ### Settings Screen
 
-![Settings Screen](./images/settings-screen.png)
+![Settings Screen](./images/settings_screen.png)
 
-## Getting Started
 
-Instructions for how to install, build, and run the application go here.
 
-## Contributing
+## Known Issues
 
-Information about how to contribute to the project, if applicable.
+1. Data can't be edited. You can delete an entry and then re-create it.
+2. When logging an entry you can't specify a date earlier than the last entry date. This will be fixed in an upcoming version.
 
-## License
-
-Information about the license, if applicable.
