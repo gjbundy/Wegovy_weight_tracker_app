@@ -2,7 +2,7 @@
 
 This repository contains information about my personal Wegovy Weight Loss Tracker App.
 
-**NOTE - I am NOT affiliated with Novo nordisk, I am just a happy user of the product. I created this app for myself and am sharing it with the community for you to track your journey too!
+**NOTE - I am NOT affiliated with Novo nordisk, I am just a happy user of the product. I created this app for myself and am sharing it with the community for you to track your journey too!**
 
 ## Getting Started
 
