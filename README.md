@@ -1,4 +1,4 @@
-# Wegovy Weight Loss Tracker (WeLose)
+# Weight Loss Tracker (WeLose)
 
 Smarter GLP-1 Progress Tracking Companion.
 
@@ -86,8 +86,8 @@ I am **not affiliated with Novo Nordisk or any other GLP-1 manufacturer**. This 
 
 Here are some screenshots of the application in action:
 
-### Application Icon
-![App Icon](./images/App_Icon.jpeg)
+### Dashboard
+![Dashboard](./images/01-dashboard.png)
 
 ### Splash Screen
 ![Splash Screen](./images/splash_screen.png)
