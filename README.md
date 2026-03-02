@@ -68,7 +68,7 @@ Email: **appsupport@itrolling.com**
 ## App Store
 
 Download on iOS:
-https://apps.apple.com/us/app/wegovy-weight-loss-tracker/id6458646995
+[WeLose](https://apps.apple.com/us/app/welose-glp-1-companion/id6458646995)
 
 ---
 
