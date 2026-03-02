@@ -82,6 +82,8 @@ See: [PrivacyPolicy.md](./PrivacyPolicy.md)
 
 I am **not affiliated with Novo Nordisk or any other GLP-1 manufacturer**. This is an independent app created to help track a GLP-1 journey.
 
+---
+
 ## Screenshots
 
 Here are some screenshots of the application in action:
@@ -89,29 +91,19 @@ Here are some screenshots of the application in action:
 ### Dashboard
 ![Dashboard](./images/01-dashboard.png)
 
-### Splash Screen
-![Splash Screen](./images/splash_screen.png)
+### Insights
+![Insights](./images/02-insights.png)
 
-### Home Screen
-![Home Screen](./images/home_page.png)
+### Week By Week
+![Week By Week](./images/03-weekly.png)
 
-### Log Entry Screen
-![Log Entry](./images/log_entry.png)
+### Log Entry
+![Log Entry](./images/04-log.png)
 
-### Progress Screen
-![Progress Screen](./images/progress_page.png)
+### Know What Works
+![Know What Works](./images/05-knowwhatworks.png)
 
-### Show Data Screen
-#### Vertical View
-![Show Data](./images/show_data_vertical.png)
-#### Horizontal View
-![Show Data](./images/show_data_horizontal.png)
-
-### Settings Screen
-
-![Settings Screen](./images/settings_screen.png)
-
-
+---
 
 ## Known Issues
 
