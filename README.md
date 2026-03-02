@@ -1,50 +1,111 @@
-# Wegovy Weight Loss Tracker App
+# Weight Loss Tracker (WeLose)
 
-This repository contains information about my personal Wegovy Weight Loss Tracker App.
+Smarter GLP-1 Progress Tracking Companion.
 
-**NOTE - I am NOT affiliated with Novo nordisk, I am just a happy user of the product. I created this app for myself and am sharing it with the community for you to track your journey too!**
+If you are on a GLP-1 medication, consistency matters.
 
-## Getting Started
+This app is built to help you stay accountable and see real progress clearly.
 
-When you first launch the application, you need to enter your goal weight and your height (in inches) in the settings page. 
+- Track your weight  
+- Log injections  
+- Understand your weekly momentum  
+- Know what is working  
 
-Your next step is that you will need to do an initial Log Entry so that your starting weight is captured.
+No noise. No gimmicks. Just clarity.
 
-After this feel free to log any entries. The app is setup to show you 7 days inbetween each entry by default. Your best bet is to only log once every 7 days, but it is perfectly acceptable to do as many as you want.
+---
+
+## See the Pattern in Your Progress
+
+- Interactive weight trends  
+- 7, 30, and 90-day views  
+- Weekly change tracking  
+- Clear progress to goal  
+
+Small changes add up. This helps you see them.
+
+---
+
+## Stay Consistent
+
+- Log dose and injection site  
+- Track your schedule  
+- Maintain protocol history  
+- Monitor streaks and milestones  
+
+Because showing up week after week is what drives results.
+
+---
+
+## Know What Is Working
+
+Break your progress down into:
+
+- Total loss  
+- Weekly averages  
+- Best and strongest weeks  
+- Distance to goal  
+
+When you can see what is working, it is easier to keep going.
+
+---
+
+## Units Supported
+
+- Pounds (lbs)
+- Kilograms (kg)
+
+---
+
+## Support
+
+Need help, have feedback, or hit a bug?
+
+Email: **appsupport@itrolling.com**
+
+---
+
+## App Store
+
+Download on iOS:
+https://apps.apple.com/us/app/wegovy-weight-loss-tracker/id6458646995
+
+---
+
+## Privacy
+
+See: [PrivacyPolicy.md](./PrivacyPolicy.md)
+
+---
+
+## Disclaimer
+
+I am **not affiliated with Novo Nordisk or any other GLP-1 manufacturer**. This is an independent app created to help track a GLP-1 journey.
+
+---
 
 ## Screenshots
 
 Here are some screenshots of the application in action:
 
-### Application Icon
-![App Icon](./images/App_Icon.jpeg)
+### Dashboard
+![Dashboard](./images/01-dashboard.png)
 
-### Splash Screen
-![Splash Screen](./images/splash_screen.png)
+### Insights
+![Insights](./images/02-insights.png)
 
-### Home Screen
-![Home Screen](./images/home_page.png)
+### Week By Week
+![Week By Week](./images/03-weekly.png)
 
-### Log Entry Screen
-![Log Entry](./images/log_entry.png)
+### Log Entry
+![Log Entry](./images/04-log.png)
 
-### Progress Screen
-![Progress Screen](./images/progress_page.png)
+### Know What Works
+![Know What Works](./images/05-knowwhatworks.png)
 
-### Show Data Screen
-#### Vertical View
-![Show Data](./images/show_data_vertical.png)
-#### Horizontal View
-![Show Data](./images/show_data_horizontal.png)
-
-### Settings Screen
-
-![Settings Screen](./images/settings_screen.png)
-
-
+---
 
 ## Known Issues
 
-1. Data can't be edited. You can delete an entry and then re-create it.
-2. When logging an entry you can't specify a date earlier than the last entry date. This will be fixed in an upcoming version.
+None at this time
 
