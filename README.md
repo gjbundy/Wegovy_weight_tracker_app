@@ -63,6 +63,8 @@ Need help, have feedback, or hit a bug?
 
 Email: **appsupport@itrolling.com**
 
+Open an Issue: [New Issue](https://github.com/gjbundy/Wegovy_weight_tracker_app/issues/new)
+
 ---
 
 ## App Store
